@@ -2,7 +2,6 @@
 RPMS/*
 BUILDROOT/
 BUILD/
-tmp/
+SRPMS/
 SOURCES/*.tar.*
 .ssh/*
-.lesshst
